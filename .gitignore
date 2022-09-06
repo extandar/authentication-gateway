@@ -1,0 +1,18 @@
+# Node modules
+node_modules
+package-lock.json
+
+# Environment variables, never commit this file
+.env
+
+# Password and private notes of the project
+secrets.txt
+
+# Notes and support files from author
+docs
+
+# Mac files
+.DS_Store
+
+# Temp files
+models/index.crud.js
